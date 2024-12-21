@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in F# related to mutable variables and references. The code showcases unexpected behavior when passing a reference and a value to a function that modifies the reference. The solution provides a way to correctly handle mutable variables and references, avoiding unintended consequences.
